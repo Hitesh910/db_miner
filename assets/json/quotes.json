@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "category": "Age",
+    "imageCategory": "assets/images/img1.png",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Alone",
+    "imageCategory": "assets/images/img2.jpg",
+    "quotes": [
+      "The longer one is alone, the easier it is to hear the song of the earth.",
+      "The object of oratory alone in not truth, but persuasion.",
+      "There's this thing of you can live in a city and be completely alone, not notice anything going on around you.",
+      "The problems that the world faces - from nuclear proliferation to climate change - can't be tackled by the West alone. They need a coalition of not just West and East, but they need a coalition of Christian and Jew and Muslim.",
+      "The capacity for not feeling lonely can carry a very real price, that of feeling nothing at all.",
+      "I love my government not least for the extent to which it leaves me alone.",
+      "As I've gotten older I've occasionally found myself nostalgic for earlier periods of solitude, though I realize that's also likely a false nostalgia, as I know there was nothing I wanted more during those periods than to not be alone, whatever that means.",
+      "Science is analytical, descriptive, informative. Man does not live by bread alone, but by science he attempts to do so. Hence the deadliness of all that is purely scientific.",
+      "Life is so impermanent that it's not about somebody else or things around me, it's about knowing you are completely alone in this world and being content inside.",
+      "I live alone, with cats, books, pictures, fresh vegetables to cook, the garden, the hens to feed."
+    ],
+    "author": [
+      "Robert Anton Wilson",
+      "Thomas B. Macaulay",
+      "Simon Pegg",
+      "David Miliband",
+      "Doug Coupland",
+      "John Updike",
+      "Chris Ware",
+      "Eric Gill",
+      "K. D. Lang",
+      "Jeanette Winterson"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Amazing",
+    "imageCategory": "assets/images/img3.jpg",
+    "quotes": [
+      "Working on such a big film was amazing. I learned a lot. There weren't too many stunts, just some doubling.",
+      "I had this really great amazing thing happen where I almost finished the book and I really needed to come up with an ending and I decided to go back and re-read the book and see if I could come up with an ending.",
+      "I'm definitely doing better. I never realized that I would get the support that I've gotten from everybody - from my fans, to people that I've idolized my whole life. So it's overwhelming, it's amazing and I believe that everything happens for a reason so I'm in a really good place right now.",
+      "Yes, the companionship is amazing. You know, you can get that physical attraction that happens is great, but then there's an awful lot of time and the rest of the day that you have to fill.",
+      "I do like athletes as they have amazing self-discipline.",
+      "In fact, it is amazing how much European films - Italian, French, German and English - have recovered a certain territory of the audience in their countries over the last few years.",
+      "100 million iphones don't lie. What an amazing man. He is the apple of all of our i's. We have an i everything and its all so amazing.",
+      "I left my job in the fall, and now I can set my life up around writing instead of squeezing writing into my day it's amazing to have that time, and I feel very lucky.",
+      "Your car should drive itself. It's amazing to me that we let humans drive cars... It's a bug that cars were invented before computers.",
+      "Some of my fans have said that because I've been able to speak about my issues, that they're not afraid to speak about theirs, which is an amazing feeling."
+    ],
+    "author": [
+      "Christopher Parker",
+      "Cory Doctorow",
+      "Pia Toscano",
+      "Vince Gill",
+      "Seal",
+      "Wim Wenders",
+      "Billy Bush",
+      "Karen Thompson Walker",
+      "Eric Schmidt",
+      "Demi Lovato"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Anger",
+    "imageCategory": "assets/images/img4.jpg",
+    "quotes": [
+      "Never contend with a man who has nothing to lose.",
+      "There is not in nature, a thing that makes man so deformed, so beastly, as doth intemperate anger.",
+      "I had a lot of anger because I wasn't happy with the way I had been raised.",
+      "I like people and get along, and I'm afraid to express my anger and my rage.",
+      "He best keeps from anger who remembers that God is always looking upon him.",
+      "All through life I've harbored anger rather than expressed it at the moment.",
+      "It is only with burning anger that we can speak of this attack by counter-revolutionary reactionary elements against the capital of our country, against our people's democratic order and the power of the working class.",
+      "Yeah, to me, acting is very therapeutic. I get out a lot of anger and frustration.",
+      "Anger makes dull men witty, but it keeps them poor.",
+      "The anger in the Brigade against those who fought the Republic in the rear was sharpened by reports of weapons, even tanks, being kept from the front and hidden for treacherous purposes."
+    ],
+    "author": [
+      "Baltasar Gracian",
+      "Alan Bleasdale",
+      "Patrick Swayze",
+      "Fisher Stevens",
+      "B. C. Forbes",
+      "Jessica Lange",
+      "Janos Kadar",
+      "Diane Kruger",
+      "Francis Bacon",
+      "Bill Alexander"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Anniversary",
+    "imageCategory": "assets/images/img5.jpg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Architecture",
+    "imageCategory": "assets/images/img6.jpg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Art",
+    "imageCategory": "assets/images/img7.jpeg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Attitude",
+    "imageCategory": "assets/images/img8.jpg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Beauty",
+    "imageCategory": "assets/images/img9.jpeg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Best",
+    "imageCategory": "assets/images/img10.jpg",
+    "quotes": [
+      "I've always felt that sexuality is a really slippery thing. In this day and age, it tends to get categorized and labeled, and I think labels are for food. Canned food.",
+      "Canada has a passive-aggressive culture, with a lot of sarcasm and righteousness. That went with my weird messianic complex. The ego is a fascinating monster. I was taught from a young age that I had to serve, so that turned into me thinking I had to save the planet.",
+      "The ruling ideas of each age have ever been the ideas of its ruling class.",
+      "Wisdom doesn't necessarily come with age. Sometimes age just shows up all by itself.",
+      "I always thought that I might retire from any form of sexuality by the age of 40 and just become a dignified older person.",
+      "I wish I'd gotten sober at a younger age.",
+      "I think when the full horror of being fifty hits you, you should stay home and have a good cry.",
+      "I vividly remember being 14. That was the age when I started to get happy: I started being a writer and stopped being a loser.",
+      "I always wanted to be a designer. I read books on fashion from the age of 12.",
+      "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen."
+    ],
+    "author": [
+      "Michael Stipe",
+      "Alanis Morissette",
+      "Karl Marx",
+      "Alanis Morissette",
+      "Michael Stipe",
+      "Janice Dickinson",
+      "Josh Billings",
+      "Anthony Horowitz",
+      "Alexander McQueen",
+      "Mark Twain"
+    ],
+    "image": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://images.squarespace-cdn.com/content/v1/550a10cbe4b03c7ec206488b/1427532060428-UQ6T4A8X2OS2IV2X05OI/iphone_5s_5c_ios_7_wallpaper_15.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIir8QG2Csfxy8XZyTwlv4YL-04hbeG9jDzzAqLfHSls5KUihh6cyStD6v5YL4VXEEr8&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkryxPCqSNgM54MXon0rW0N-LNzRYfIqJnb5fvWOPTnASHTE-aLzQi4Ik4S5m9qRAiSWE&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU462i6g5kydRx9_AMXCLIGQ9UhZJRerSK5s0yQIR4NhBBN-rLnSv3RWQvgZdEJIQEg0&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn7UDL3sSOhalPjjQZTBR4UC4MwK4_zfZtoNapgF-NCc4FT1ITb0v5RubDec5tZXX2mw&usqp=CAU"
+    ]
+  }
+]
