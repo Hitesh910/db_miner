@@ -30,100 +30,101 @@ class _FavouriteScreenState extends State<FavouriteScreen> {
                 child: Container(
                   height: 300,
                   width: MediaQuery.sizeOf(context).width,
+                  child: Text("${controller.quotesList[index].name}"),
                   // color: Colors.black,
                   // margin: EdgeInsets.all(10),
                   // padding: EdgeInsets.all(5),
 
-                  decoration: BoxDecoration(boxShadow: [
-                    BoxShadow(
-                        blurRadius: 10,
-                        spreadRadius: -10,
-                        color: Colors.white12)
-                  ]
-                    // image: DecorationImage(
-                    //     image: NetworkImage("${model.image![index]}")),
-                  ),
-                  child: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Column(
-                      children: [
-                        Expanded(
-                          child: Stack(
-                            children: [
-                              Container(
-                                height: MediaQuery.sizeOf(context).height,
-                                width: MediaQuery.sizeOf(context).width,
-                                // decoration: BoxDecoration(
-                                //     borderRadius: BorderRadius.only(
-                                //         topLeft: Radius.circular(10),
-                                //         topRight: Radius.circular(10)),
-                                //     image: DecorationImage(
-                                //         image: NetworkImage(
-                                //             "${controller.quotesList[index].}"),
-                                //         fit: BoxFit.cover,
-                                //         opacity: 0.9)
-                                // ),
-                              ),
-                              // ClipRRect(
-                              //   borderRadius: BorderRadius.circular(10),
-                              //   child: Image.network(
-                              //     "${model.image![index]}",
-                              //     fit: BoxFit.cover,
-                              //     height: MediaQuery
-                              //         .sizeOf(context)
-                              //         .height,
-                              //     width: MediaQuery
-                              //         .sizeOf(context)
-                              //         .width,
-                              //   ),
-                              // ),
-                              Padding(
-                                padding: const EdgeInsets.all(8.0),
-                                child: Column(
-                                  mainAxisAlignment: MainAxisAlignment.center,
-                                  children: [
-                                    Text(
-                                      "hello",
-                                  // "${controller.quotesList[index].quotes}",
-                                      style: TextStyle(
-                                          fontSize: 18,
-                                          fontWeight: FontWeight.w500),
-                                    ),
-                                    Align(
-                                        alignment: Alignment.bottomRight,
-                                        child: Text("${controller.quotesList[index].author}"))
-                                  ],
-                                ),
-                              ),
-                            ],
-                          ),
-                        ),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          children: [
-                            SizedBox(
-                              width: 10,
-                            ),
-                            Icon(Icons.favorite),
-                            SizedBox(
-                              width: 10,
-                            ),
-                            Icon(Icons.download),
-                            SizedBox(
-                              width: 10,
-                            ),
-                            IconButton(
-                                onPressed: () {}, icon: Icon(Icons.copy)),
-                            SizedBox(
-                              height: 10,
-                            ),
-                            IconButton(
-                                onPressed: () {}, icon: Icon(Icons.share))
-                          ],
-                        )
-                      ],
-                    ),
-                  ),
+                  // decoration: BoxDecoration(boxShadow: [
+                  //   BoxShadow(
+                  //       blurRadius: 10,
+                  //       spreadRadius: -10,
+                  //       color: Colors.white12)
+                  // ]
+                  //   // image: DecorationImage(
+                  //   //     image: NetworkImage("${model.image![index]}")),
+                  // ),
+                  // child: Padding(
+                  //   padding: const EdgeInsets.all(8.0),
+                  //   child: Column(
+                  //     children: [
+                  //       Expanded(
+                  //         child: Stack(
+                  //           children: [
+                  //             Container(
+                  //               height: MediaQuery.sizeOf(context).height,
+                  //               width: MediaQuery.sizeOf(context).width,
+                  //               // decoration: BoxDecoration(
+                  //               //     borderRadius: BorderRadius.only(
+                  //               //         topLeft: Radius.circular(10),
+                  //               //         topRight: Radius.circular(10)),
+                  //               //     image: DecorationImage(
+                  //               //         image: NetworkImage(
+                  //               //             "${controller.quotesList[index].}"),
+                  //               //         fit: BoxFit.cover,
+                  //               //         opacity: 0.9)
+                  //               // ),
+                  //             ),
+                  //             // ClipRRect(
+                  //             //   borderRadius: BorderRadius.circular(10),
+                  //             //   child: Image.network(
+                  //             //     "${model.image![index]}",
+                  //             //     fit: BoxFit.cover,
+                  //             //     height: MediaQuery
+                  //             //         .sizeOf(context)
+                  //             //         .height,
+                  //             //     width: MediaQuery
+                  //             //         .sizeOf(context)
+                  //             //         .width,
+                  //             //   ),
+                  //             // ),
+                  //             Padding(
+                  //               padding: const EdgeInsets.all(8.0),
+                  //               child: Column(
+                  //                 mainAxisAlignment: MainAxisAlignment.center,
+                  //                 children: [
+                  //                   Text(
+                  //                     "${controller.quotesList[index].name}",
+                  //                 // "${controller.quotesList[index].quotes}",
+                  //                     style: TextStyle(
+                  //                         fontSize: 18,
+                  //                         fontWeight: FontWeight.w500),
+                  //                   ),
+                  //                   // Align(
+                  //                   //     alignment: Alignment.bottomRight,
+                  //                   //     child: Text("${controller.quotesList[index].author}"))
+                  //                 ],
+                  //               ),
+                  //             ),
+                  //           ],
+                  //         ),
+                  //       ),
+                  //       Row(
+                  //         mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  //         children: [
+                  //           SizedBox(
+                  //             width: 10,
+                  //           ),
+                  //           Icon(Icons.favorite),
+                  //           SizedBox(
+                  //             width: 10,
+                  //           ),
+                  //           Icon(Icons.download),
+                  //           SizedBox(
+                  //             width: 10,
+                  //           ),
+                  //           IconButton(
+                  //               onPressed: () {}, icon: Icon(Icons.copy)),
+                  //           SizedBox(
+                  //             height: 10,
+                  //           ),
+                  //           IconButton(
+                  //               onPressed: () {}, icon: Icon(Icons.share))
+                  //         ],
+                  //       )
+                  //     ],
+                  //   ),
+                  // ),
                 ),
               ),
               // SizedBox(height: 10,),

@@ -16,10 +16,12 @@ void main()
   runApp(
     Obx(
       () =>  GetMaterialApp(
+        debugShowCheckedModeBanner: false,
         color: Colors.indigo.shade900,
-            theme: controller.theme.value == false ?lightTheme :darkTheme,
+             theme: controller.theme.value == false ?lightTheme :darkTheme,
           // darkTheme: ThemeData.dark(),
-          // themeMode: ThemeMode.dark,
+          //  themeMode: controller.theme.value == false ?ThemeMode.light :ThemeMode.dark,
+        // ThemeMode.dark,
           // controller.theme.value == true ?light :dark,
           routes: app_routes,
         ),

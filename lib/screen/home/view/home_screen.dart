@@ -32,9 +32,9 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Db_miner"),
-        actions: [
+        actions: const [
 
-           DrawerButton()
+        //   DrawerButton()
 
         ],
       ),
@@ -49,13 +49,13 @@ class _HomeScreenState extends State<HomeScreen> {
           onTap: (value) {
             controller.i.value = value;
           },
-          items: [
-            const BottomNavigationBarItem(
+          items: const [
+            BottomNavigationBarItem(
               icon: Icon(Icons.home),
               label: "home"
             ),
-            const BottomNavigationBarItem(icon: Icon(Icons.category),label: "category"),
-            const BottomNavigationBarItem(icon: Icon(Icons.favorite),label: "favourite")
+            BottomNavigationBarItem(icon: Icon(Icons.category),label: "category"),
+            BottomNavigationBarItem(icon: Icon(Icons.favorite),label: "favourite")
           ]),
       drawer: Drawer(
         child: Padding(

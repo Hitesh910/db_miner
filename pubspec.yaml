@@ -38,10 +38,14 @@ dependencies:
   get: ^4.6.6
   shared_preferences: ^2.3.2
   sqflite: ^2.3.3+1
-  share_plus: ^10.0.2
   path_provider: ^2.1.4
+  tbib_splash_screen: ^1.0.0
+
+#  share_plus: ^10.0.2
+#  path_provider: ^2.1.4
   share_extend: ^2.0.0
-  fluttertoast: ^8.2.6
+  animated_text_kit: ^4.2.2
+#  fluttertoast: ^8.2.6
 
 
 dev_dependencies:
@@ -96,6 +100,31 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  #
+  fonts:
+    - family: Apothem
+      fonts:
+      - asset: assets/fonts/Apothem-Regular.ttf
+
+    - family: Juliett
+      fonts :
+      - asset: assets/fonts/Juliett-Regular.ttf
+
+    - family: Moderustic
+      fonts :
+      - asset: assets/fonts/Moderustic-Medium.ttf
+
+    - family: Severange
+      fonts :
+      - asset: assets/fonts/Severange.ttf
+
+    - family: Swarthmore
+      fonts :
+      - asset: assets/fonts/SwarthmoreDemoRegular.ttf
+
+#       - family: Trequartista
+#         fonts:
+#         - asset: assets/fonts/Trequartista - Personal Used.otf
+
+      #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

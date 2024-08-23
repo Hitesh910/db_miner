@@ -25,21 +25,21 @@ class _CategoryScreenState extends State<CategoryScreen> {
     // return Placeholder();
     return Scaffold(
       appBar: AppBar(
-        title: Text("Category"),
+        title: const Text("Category"),
         centerTitle: true,
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
         child: Column(
           children: [
-            Text(
+            const Text(
               "Motivation",
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
             ),
             Expanded(
               child: GridView.builder(
                 itemCount: controller.categoryList.length,
-                gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                     crossAxisCount: 2),
                 itemBuilder: (context, index) {
                   return InkWell(
@@ -53,12 +53,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                       // color: Colors.red,
 
                       alignment: Alignment.center,
-                      margin: EdgeInsets.all(5),
-                      child: Text(
-                        "${controller.categoryList[index].category}",
-                        style: TextStyle(
-                            fontSize: 20, fontWeight: FontWeight.w800),
-                      ),
+                      margin: const EdgeInsets.all(5),
                       decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(10),
                           image: DecorationImage(
@@ -66,6 +61,11 @@ class _CategoryScreenState extends State<CategoryScreen> {
                                   "${controller.categoryList[index].categoryImage}"),
                               fit: BoxFit.fill,
                               opacity: 0.5)),
+                      child: Text(
+                        "${controller.categoryList[index].category}",
+                        style: const TextStyle(
+                            fontSize: 20, fontWeight: FontWeight.w800),
+                      ),
                     ),
                   );
                 },

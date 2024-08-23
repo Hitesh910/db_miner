@@ -1,5 +1,6 @@
 import 'dart:ui';
 
+import 'package:db_miner/screen/home/model/quotes_model.dart';
 import 'package:db_miner/utils/helper/shared_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -16,11 +17,15 @@ class HomeController extends GetxController
   Rx<Color> isColor = Colors.black.obs;
   RxBool color = false.obs;
   // RxBool theme1 = true.obs;
-RxList<DbModel> quotesList = <DbModel>[].obs;
-
+RxList<HomeModel> quotesList = <HomeModel>[].obs;
+RxList fontList = ["Apothem","Juliett","Moderustic","Severange","Swarthmore",].obs;
+RxString isFont = 'Apothem'.obs;
+RxBool isOn = false.obs;
+RxString path = "".obs;
 Future<void> getQuotes()
 async {
   quotesList.value = await DbHelper.helper.readDB();
+  // quotesList.value = await DbHelper.helper.readDB();
 }
 
   void getTheme()
